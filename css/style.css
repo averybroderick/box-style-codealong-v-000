@@ -212,6 +212,7 @@ section {
 
 #details div {
   height: 221px;
+  bottom: 0;
 }
 
 #details a:link, #details a:visited {
