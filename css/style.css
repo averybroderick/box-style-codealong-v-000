@@ -201,8 +201,15 @@ section {
   padding: 30px;
   margin-bottom: 20px;
   background: white;
-
 }
+
+section {
+padding: 30px;
+background: white;
+}
+
+
+
 
 /*////////// DETAILS //////////*/
 
