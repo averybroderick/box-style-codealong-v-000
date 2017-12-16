@@ -199,7 +199,7 @@ header {
 
 section {
   padding: 30px;
-  /*margin-bottom: 20px;*/
+  margin-bottom: 20px;
   background: white;
 }
 
@@ -207,6 +207,10 @@ section {
 
 #details {
   border-top: 1px solid white;
+}
+
+#details.medium-fade {
+  margin-bottom: 0;
 }
 
 #details div {
